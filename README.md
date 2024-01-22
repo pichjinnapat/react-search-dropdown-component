@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Search Dropdown Component
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo 
+You can find the deployed demo at https://main--willowy-alpaca-efee53.netlify.app/
+
+## Technology
+- React
+- Typescript
+- Tailwind CSS
 
 ## Available Scripts
 
