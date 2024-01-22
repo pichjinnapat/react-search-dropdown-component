@@ -39,7 +39,6 @@ function App() {
         className='w-[300px]'
         label='Asynchronous Countries Search'
         description='Search countries by name from remote API'
-        //options={['abc', '2abd', 'def', 'efg']}
         options={(keyword) => fetchUserList(keyword)}
         inputProps={{ className: 'w-full' }}
         isLoading
